@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ecfr": {
+      "command": "node",
+      "args": [
+        "apps/ecfr-mcp/node_modules/tsx/dist/cli.mjs",
+        "apps/ecfr-mcp/src/index.ts"
+      ]
+    }
+  }
+}

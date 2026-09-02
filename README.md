@@ -114,6 +114,7 @@ itarAI is that environment as a product. We do not build another LLM.
 | **Coding** | Secure coding-agent wedge. | [`apps/coding/`](./apps/coding) |
 | **Control plane** | Policy, routing, tools, egress, audit, evidence. | [`control-plane/`](./control-plane) |
 | **Docs** | Install, policy, and operator guides. | [`docs/`](./docs) |
+| **eCFR** | stdio MCP for the public eCFR API. ITAR is Title 22; EAR is Title 15. | [`apps/ecfr-mcp/`](./apps/ecfr-mcp) |
 | **Business Development** | Market research, ICP, competitive analysis, GTM, YC draft. | [`business-development/`](./business-development) |
 
 ## Runs In The Customer's Environment
@@ -149,6 +150,20 @@ The product abstracts the model. The customer should see Fast / Reasoning / Codi
 ## One-Day Deployment
 
 The stack underneath can include Jan, Cline, Bifrost, OPA, Keycloak, and local inference. The customer should never operate that stack. If install takes a three-week professional-services project, the product has failed.
+
+## eCFR
+
+Live CFR lookup for this repo. stdio MCP over the public [eCFR API](https://www.ecfr.gov/developers/documentation/api/v1) — search, structure, and section XML. No HTTP listener.
+
+ITAR is Title 22 Subchapter M. EAR is Title 15. Cursor already points at it in [`.cursor/mcp.json`](./.cursor/mcp.json).
+
+```sh
+cd apps/ecfr-mcp
+npm install
+npm run smoke
+```
+
+Tools and fetch limits: [`apps/ecfr-mcp/`](./apps/ecfr-mcp). This is a repo tool, not the product.
 
 ## Business Development
 

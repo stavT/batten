@@ -1,0 +1,22 @@
+{
+  "name": "ecfr-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "stdio MCP for the public eCFR API (admin, search, versioner)",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "smoke": "tsx scripts/smoke.ts",
+    "inspector": "npx @modelcontextprotocol/inspector npx tsx src/index.ts"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.0.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.0"
+  }
+}
