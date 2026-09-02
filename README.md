@@ -5,12 +5,12 @@
 <h1 align="center">Batten</h1>
 
 <p align="center">
-  <strong>ChatGPT for defense work. On your computer. Free.</strong>
+  <strong>ITAR-safe ChatGPT for defense work. On your computer. Free.</strong>
 </p>
 
 <p align="center">
   Talk to it. Drop in a spec or a briefing. Let it use the files and tools security allows.
-  Export-controlled work stays in your building.
+  ITAR and CUI stay in your building.
 </p>
 
 <div align="center">
@@ -35,12 +35,12 @@
 </div>
 
 <p align="center">
-Free and open source. No seats. No vendor cloud. No $25k middleman.
+ITAR-safe. Free and open source. No seats. No vendor cloud. No $25k middleman.
 </p>
 
 ## What you get
 
-An app anyone at a defense company can open. Capture. Program. Systems. Finance. Engineering. If you were told no ChatGPT, this is for you.
+An ITAR-safe app anyone at a defense company can open. Capture. Program. Systems. Finance. Engineering. If you were told no ChatGPT because the data is export-controlled, this is for you.
 
 <div align="center">
 <table>
@@ -71,9 +71,9 @@ When something is blocked, you see why.
 <tr>
 <td align="center" width="50%">
 
-### Built for ITAR and CUI
+### ITAR-safe by design
 
-The work stays on your machines.
+ITAR and CUI stay on your machines.
 Only approved models. Nothing from China.
 
 <a href="#trust">How trust works</a>
@@ -103,9 +103,9 @@ You want ChatGPT at work. Security said no.
 
 Claude for Government is fine for some CUI. It is not ITAR. The big name in government AI sells to the government, not to your shop. Everything else is a cloud program or a bill you cannot take to your boss.
 
-Engineers can stand up their own servers. Everyone else is stuck. Batten is the app for everyone else. Install. Sign in. Get back to work.
+Engineers can stand up their own servers. Everyone else is stuck. Batten is the ITAR-safe app for everyone else. Install. Sign in. Get back to work.
 
-We do not build the model. We build the assistant security can actually allow.
+We do not build the model. We build the assistant security can allow on export-controlled work.
 
 ## How it works
 
@@ -132,7 +132,7 @@ You pick Fast, Smart, or Write. You do not pick infrastructure.
 
 There is no government stamp that says ITAR certified AI. Anyone selling you that stamp is lying.
 
-Batten is safe for this work because of where it runs and what it is allowed to touch.
+Batten is ITAR-safe because of where it runs and what it is allowed to touch.
 
 - Your computer or your company's room. Not our cloud.
 - Only the model list security approved.
@@ -145,7 +145,7 @@ A software license is not compliance. A badge on someone else's cloud is not ITA
 
 | | | |
 |---|---|---|
-| **The app** | Chat, documents, and an assistant that can use files. | [`apps/workspace/`](./apps/workspace) |
+| **The app** | ITAR-safe chat, documents, and an assistant that can use files. | [`apps/workspace/`](./apps/workspace) |
 | **What security sees** | Who is signed in, what is allowed, and the log. | [`control-plane/`](./control-plane) |
 | **Coding** | Later. Software teams often already have a painful workaround. | [`apps/coding/`](./apps/coding) |
 | **Docs** | Install and how to run it. | [`docs/`](./docs) |

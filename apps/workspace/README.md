@@ -1,9 +1,9 @@
 # The app
 
-This is what people open. Chat. Documents. An assistant that can use files and the tools security allows.
+This is what people open. ITAR-safe chat. Documents. An assistant that can use files and the tools security allows.
 
-It runs on your company's computers. Security decides what is allowed. You do not pick random cloud accounts.
+It runs on your company's computers. Export-controlled work does not go to a vendor cloud. Security decides what is allowed.
 
-**For:** anyone who was told no ChatGPT. Capture, program, systems, finance, and engineering.
+**For:** anyone who was told no ChatGPT because the data is ITAR or CUI. Capture, program, systems, finance, and engineering.
 
 **Status:** not started.
