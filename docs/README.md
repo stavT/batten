@@ -1,8 +1,9 @@
 # Docs
 
-Install, policy, and operator guides for Batten.
+How to install Batten and how to run it.
 
-Until those exist, the [root README](../README.md) is the product story and the trust rules.
+Until those guides exist, the [root README](../README.md) is the story.
 
-**What it is:** a free, customer-controlled AI workspace for ITAR / CUI work.  
-**What it is not:** a government seal, a vendor cloud, or a $25k gateway.
+**What it is:** a free app for ChatGPT-style work on ITAR and CUI, on your machines.
+
+**What it is not:** a government stamp, a vendor cloud, or a $25k middleman.

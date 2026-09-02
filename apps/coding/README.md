@@ -1,7 +1,7 @@
 # Coding
 
-A later pane. Cline-class agent through the same [control plane](../../control-plane/README.md).
+Later.
 
-Software teams at mid-DIB shops often already have a painful on-prem workaround. They are not the first user. The first user is everyone else, in the [workspace](../workspace/README.md).
+Software teams at a lot of shops already stood up their own servers. They are not the first people we are building for. The first people are everyone else, in [the app](../workspace/README.md).
 
-**Status:** not started. Do not write a new agent loop.
+**Status:** not started.

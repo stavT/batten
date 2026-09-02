@@ -1,10 +1,9 @@
-# Workspace
+# The app
 
-The thing people open. Chat, documents, and light agents on approved models — a Jan-style desktop for defense work.
+This is what people open. Chat. Documents. An assistant that can use files and the tools security allows.
 
-Runs on the contractor’s machine. Security lives in the [control plane](../../control-plane/README.md), not in a picker of random cloud APIs.
+It runs on your company's computers. Security decides what is allowed. You do not pick random cloud accounts.
 
-**For:** capture, program, systems, finance, and anyone who was told “no ChatGPT.”  
-**Not for:** standing up a GPU cluster. Engineers already did that.
+**For:** anyone who was told no ChatGPT. Capture, program, systems, finance, and engineering.
 
-**Status:** not started. Jan is the reference shell, not a permanent fork.
+**Status:** not started.

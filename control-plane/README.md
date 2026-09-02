@@ -1,9 +1,9 @@
-# Control plane
+# What security sees
 
-Why an ISSM can say yes.
+Why your ISSM can say yes.
 
-Identity, classification, model allowlist, tool/MCP permissions, egress, and audit. Every request answers: who asked, what data, which model, which tools, where it can go, what got logged.
+Who is signed in. What kind of data this is. Which model may see it. Which tools may run. Whether it can touch the web. What got logged.
 
-The workspace is what people feel. This is what makes it allowed.
+The app is what people feel. This is what makes it allowed.
 
-**Status:** not started. Policy engine target is OPA behind a UI nobody writes Rego in.
+**Status:** not started.
