@@ -1,6 +1,6 @@
 # Docs
 
-Install, policy, and operator guides for itarAI.
+Install, policy, and operator guides for Batten.
 
 Until those exist, the [root README](../README.md) is the product story and the trust rules.
 

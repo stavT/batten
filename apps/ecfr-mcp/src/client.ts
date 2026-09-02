@@ -1,5 +1,5 @@
 export const ECFR_BASE = "https://www.ecfr.gov";
-export const USER_AGENT = "itarAI-ecfr-mcp/1.0";
+export const USER_AGENT = "batten-ecfr-mcp/1.0";
 export const MAX_CHARS = 80_000;
 
 type TitlesPayload = {

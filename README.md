@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/icon.svg" width="88" alt="itarAI" />
+  <img src="assets/icon.svg" width="72" alt="Batten" />
 </p>
 
-<h1 align="center">itarAI</h1>
+<h1 align="center">Batten</h1>
 
 <p align="center">
   <strong>ChatGPT-class AI for defense work. On your machine. Free.</strong>
@@ -106,7 +106,7 @@ You want ChatGPT at work. Security said no.
 
 Claude for Government is FedRAMP / CUI — **not ITAR**. Ask Sage sells to the government. The rest are a GovCloud project or a $25k gateway. Engineers can stand up a cluster. Everyone else cannot.
 
-itarAI is the app for everyone else: capture, program, systems, finance, and engineering. Install. Sign in. Work.
+Batten is the app for everyone else: capture, program, systems, finance, and engineering. Install. Sign in. Work.
 
 We do not build another LLM. We make a general AI agent + tools that an ISSM can allow.
 
@@ -142,7 +142,7 @@ You see Fast / Reasoning / Writing. Not GGUF files. Not a three-week integration
 
 There is **no** government “ITAR-certified AI” seal. Anyone who sells you one is lying.
 
-itarAI is ITAR-safe because of **where it runs and what it is allowed to call**:
+Batten is ITAR-safe because of **where it runs and what it is allowed to call**:
 
 - Your machine or your enclave — not our cloud
 - Approved catalog only
