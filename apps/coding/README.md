@@ -1,7 +1,7 @@
 # Coding
 
-The coding-agent wedge: a Cline-class experience that only talks to models and tools the [control plane](../../control-plane/README.md) allows.
+A later pane. Cline-class agent through the same [control plane](../../control-plane/README.md).
 
-This is how we get into a 100–500 person defense contractor first. It is not the whole company.
+Software teams at mid-DIB shops often already have a painful on-prem workaround. They are not the first user. The first user is everyone else, in the [workspace](../workspace/README.md).
 
 **Status:** not started. Do not write a new agent loop.
