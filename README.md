@@ -19,10 +19,10 @@ The secure AI computer for defense companies.
 <a href="./control-plane/README.md"><strong>Control Plane</strong></a>
 </td>
 <td align="center">
-<a href="./business-development/05-trust-and-compliance.md"><strong>Trust</strong></a>
+<a href="#policy-before-the-model"><strong>Trust</strong></a>
 </td>
 <td align="center">
-<a href="./business-development/README.md"><strong>Business Development</strong></a>
+<a href="./business-development"><strong>Business Development</strong></a>
 </td>
 </tbody>
 </table>
@@ -115,7 +115,7 @@ itarAI is that environment as a product. We do not build another LLM.
 | **Control plane** | Policy, routing, tools, egress, audit, evidence. | [`control-plane/`](./control-plane) |
 | **Docs** | Install, policy, and operator guides. | [`docs/`](./docs) |
 | **eCFR** | stdio MCP for the public eCFR API. ITAR is Title 22; EAR is Title 15. | [`apps/ecfr-mcp/`](./apps/ecfr-mcp) |
-| **Business Development** | Market research, ICP, competitive analysis, GTM, YC draft. | [`business-development/`](./business-development) |
+| **Business Development** | Founder-only market research and company-building docs. | Private submodule: [`business-development/`](./business-development) |
 
 ## Runs In The Customer's Environment
 
@@ -167,12 +167,10 @@ Tools and fetch limits: [`apps/ecfr-mcp/`](./apps/ecfr-mcp). This is a repo tool
 
 ## Business Development
 
-Company-building research lives in [`business-development/`](./business-development). It is a repo section, not the product.
-
-Start with the [executive summary](./business-development/01-executive-summary.md). The full index is in the [Business Development README](./business-development/README.md).
+Company-building research is a [private submodule](https://github.com/stavT/itarAI-business-development). It is not part of the public product tree.
 
 ## License
 
 Copyright 2026 Stav Tsechansky.
 
-This repository and the [itarAI-evaluation](https://github.com/stavT/itarAI-evaluation) submodule are licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) and [NOTICE](./NOTICE).
+This repository and the [itarAI-business-development](https://github.com/stavT/itarAI-business-development) submodule are licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) and [NOTICE](./NOTICE).

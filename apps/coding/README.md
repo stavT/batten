@@ -4,4 +4,4 @@ The coding-agent wedge: a Cline-class experience that only talks to models and t
 
 This is how we get into a 100–500 person defense contractor first. It is not the whole company.
 
-**Status:** not started. Do not write a new agent loop. See [product](../../business-development/02-product.md) and [execution plan](../../business-development/06-execution-plan.md).
+**Status:** not started. Do not write a new agent loop.

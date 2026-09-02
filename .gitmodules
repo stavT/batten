@@ -1,0 +1,3 @@
+[submodule "business-development"]
+	path = business-development
+	url = https://github.com/stavT/itarAI-business-development.git
