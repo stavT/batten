@@ -170,3 +170,9 @@ Tools and fetch limits: [`apps/ecfr-mcp/`](./apps/ecfr-mcp). This is a repo tool
 Company-building research lives in [`business-development/`](./business-development). It is a repo section, not the product.
 
 Start with the [executive summary](./business-development/01-executive-summary.md). The full index is in the [Business Development README](./business-development/README.md).
+
+## License
+
+Copyright 2026 Stav Tsechansky.
+
+This repository and the [itarAI-evaluation](https://github.com/stavT/itarAI-evaluation) submodule are licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) and [NOTICE](./NOTICE).

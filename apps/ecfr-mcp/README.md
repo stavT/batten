@@ -4,7 +4,7 @@ stdio MCP for the public [eCFR API](https://www.ecfr.gov/developers/documentatio
 
 This is a repo tool, not the product. Security still lives in the [control plane](../../control-plane/README.md).
 
-**Status:** runnable. Public eCFR only — no auth, no local cache. Repo index: [root README](../../README.md#ecfr).
+**Status:** runnable. Public eCFR only — no auth, no local cache. Repo index: [root README](../../README.md#ecfr). Licensed Apache-2.0; see [LICENSE](../../LICENSE).
 
 Base URL: `https://www.ecfr.gov`
 
